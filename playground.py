@@ -1,4 +1,4 @@
-from py100days import days
-
-print(days.list_days())
-days.day01.run()
+from py100days.days import day01
+from py100days.days import day02
+day01.run()
+day02.run()
