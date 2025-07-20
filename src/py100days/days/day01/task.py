@@ -1,4 +1,3 @@
-"""
 print("Hello World!")
 print("Hello World!")
 print("Hello World!")
@@ -26,7 +25,6 @@ print(name)
 
 print("Length of name is ")
 print(len(name))
-"""
 
 print("Welcome to the Brand Name Generator")
 
